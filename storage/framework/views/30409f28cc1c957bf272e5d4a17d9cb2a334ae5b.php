@@ -1,1 +1,0 @@
-<li><img src="<?php echo e(asset('assets/front/images/icon_news_2.png')); ?>"> <a href="<?php echo e($item->getViewLink()); ?>"><?php echo e($item->title); ?></a></li>

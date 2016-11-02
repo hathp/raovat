@@ -1,1 +1,0 @@
-@extends('admin.partials.confirmation-modal')

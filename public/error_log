@@ -1,1 +1,0 @@
-[20-May-2016 17:08:46 Asia/Ho_Chi_Minh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 5692 bytes) in /home/vietcareplus/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 119
